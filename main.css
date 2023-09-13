@@ -1,0 +1,21 @@
+:root {
+  --color-white: #ebebeb;
+  --color--white2: #f6f6f6;
+  --color-azulEscuro: #033f63;
+  --color-azulClaro: #1b9aaa;
+  --color-cinza: #545454;
+
+  --text-mini: 1.2rem;
+  --text-pequeno: 1.5rem;
+  --text-grande: 2rem;
+  --text-giga: 3rem;
+}
+
+* {
+  font-weight: 600;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+  font-family: Arial, Helvetica, sans-serif;
+}
